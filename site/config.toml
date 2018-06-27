@@ -13,4 +13,4 @@ title = "HardyPress status"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["CDN", "Docker services", "API", "DNS"]
+systems = ["CDN", "Docker services", "API", "DNS", "Dashboard", "AWS"]
