@@ -5,8 +5,11 @@ severity = "partial-outage"
 affectedsystems = [
   "Dashboard"
 ]
-resolved = false
+resolved = true
 +++
-We're seeing slow loads of our dashboard (app.hardypress.com) and difficulty in using our web UI hosted on Netlify. We're looking into it now, but it seems a Netlify issue. Live sites hosted on HardyPress are unaffected.
 
-We are monitoring Netlifystatus Twitter account: [https://twitter.com/netlifystatus]
+We're seeing slow loads of our dashboard (app.hardypress.com) and difficulty in using our web UI. We're looking into it now, but it seems related to an outage an oa major cloud provider. Live sites hosted on HardyPress are unaffected.
+
+---
+
+**Monitoring**: We’ve found a cause of the slowdown and mitigated it and continue to monitor. {{< track "2018-06-27T16:18:12.000Z" >}}
