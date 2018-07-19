@@ -12,4 +12,4 @@ resolved = true
 
 ---
 
-**Resolved**: AWS experienced network connectivity issues. The issue has been resolved and the service is operating normally. 
+**Resolved**: AWS experienced network connectivity issues. The issue has been resolved and the service is operating normally. {{< track "2018-07-19T02:51:42.000Z" >}
