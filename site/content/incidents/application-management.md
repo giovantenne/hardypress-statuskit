@@ -6,7 +6,7 @@ affectedsystems = [
   "API",
   "Dashboard"
 ]
-resolved = false
+resolved = true
 +++
 An outage on a major cloud provider is causing downtime on our API. We are working on mitigating the effects. Live sites hosted on HardyPress are unaffected.
 
