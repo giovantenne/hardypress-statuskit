@@ -12,4 +12,4 @@ An outage on a major cloud provider is causing downtime on our API. We are worki
 
 ---
 
-API and Dashboard are fully operational again. We will continue monitoring to ensure that this issue is fully resolved.. {{< track "2019-05-15T18:56:31.000Z" >}}
+API and Dashboard are fully operational again. We will continue monitoring to ensure that this issue is fully resolved. {{< track "2019-05-15T18:56:31.000Z" >}}
